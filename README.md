@@ -57,7 +57,7 @@ src/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/book-library-api.git
+git clone https://github.com/YounesWagih/Book-Library-API.git
 cd book-library-api
 
 # Install dependencies
