@@ -27,7 +27,6 @@ export class BorrowController {
 
   @Get('my-borrows')
   getBorrows(@Req() req) {
-    console.log(req.user)
     return this.borrowService.getUserBorrows(req.user?.userId)
   }
 }
